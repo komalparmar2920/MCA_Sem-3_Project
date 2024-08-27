@@ -1,2 +1,2 @@
-# MCA_Sem-3_Project
-MCA_Sem-3_Project_fertilizer_recommendation_system
+In this Project i am using ML.
+in this project i am recommend user fertilizer for their crop.
