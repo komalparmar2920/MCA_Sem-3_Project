@@ -1,0 +1,2 @@
+# MCA_Sem-3_Project
+MCA_Sem-3_Project_fertilizer_recommendation_system
